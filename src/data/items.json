@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Yaris",
+    "price": 1000,
+    "imgUrl": "/imgs/toyota.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Porsche Taycan",
+    "price": 5000,
+    "imgUrl": "/imgs/porsche.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Tesla Model 3",
+    "price": 3600,
+    "imgUrl": "/imgs/tesla.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Volkswagen",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg"
+  }
+]
